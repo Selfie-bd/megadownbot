@@ -1,3 +1,7 @@
+
+
+https://img.shields.io/static/v1?label=Knotters&message=Project&color=1657ce&link=https://knotters.org&style=for-the-badge
+
 # Mega Link Downloader Bot
 <p align="center"><b>This is a telegram bot to download mega.nz links and return them as files/videos - Made by a 100% noob!</b></p>
 
