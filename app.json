@@ -1,5 +1,5 @@
 {
-  "name": "Mega Link Downloader Bot",
+  "name": "Mega Down Bot",
   "description": "This is a telegram bot to download mega.nz links.",
   "keywords": [
     "telegram",
@@ -12,10 +12,10 @@
     "bot",
     "uploader"
   ],
-  "success_url": "https://t.me/mega_downloader_robot",
-  "website": "https://github.com/XMYSTERlOUSX/mega-link-downloader-bot",
+  "success_url": "https://t.me/megadowndcbot",
+  "website": "https://github.com/selfie-bd/megadownbot",
   "logo": "https://telegra.ph/file/a438489c44d17d108f7b5.jpg",
-  "repository": "https://github.com/XMYSTERlOUSX/mega-link-downloader-bot",
+  "repository": "https://github.com/selfie-bd/megadownbot",
   "stack": "container",
   "env": {
     "WEBHOOK": {
